@@ -1,0 +1,1 @@
+Simple application using Angular2.
