@@ -1,1 +1,1 @@
-Simple application using Angular2.
+Simple application using Angular 2 + Webpack + TypeScript + Materialize.
